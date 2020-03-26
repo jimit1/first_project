@@ -22,7 +22,6 @@ body {
 }
 
 .nav-items li {
-
   list-style: none;
   display: inline;
 }
@@ -32,7 +31,7 @@ body {
   color: whitesmoke;
 }
 
-.nav-items li:not(:last-child){
+.nav-items li:not(:last-child) {
   margin-right: 10px
 }
 
