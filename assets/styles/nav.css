@@ -12,6 +12,7 @@ body {
 
 .nav h1 {
   color: whitesmoke;
+  margin: 0;
   margin-left: 20px;
   align-self: center;
 }
@@ -32,6 +33,5 @@ body {
 }
 
 .nav-items li:not(:last-child) {
-  margin-right: 10px
+  margin-right: 10px;
 }
-
