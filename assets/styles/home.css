@@ -1,0 +1,16 @@
+.home {
+    height: 92vh;
+    background-color: aquamarine;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.profile-image {
+    margin-top: 10px;
+    border-radius: 5%;
+    width: auto;
+    height: 200px;
+
+}
